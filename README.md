@@ -67,11 +67,8 @@ To get a copy of the project up and running on your local machine for developmen
 2.  **Create and activate a virtual environment:**
     ```bash
     python3 -m venv venv
-    # On Windows:
     .\venv\Scripts\activate
-    # On macOS/Linux:
-    source venv/bin/activate
-    ```
+    
 
 3.  **Install the required dependencies:**
     ```bash
