@@ -84,5 +84,3 @@ To get a copy of the project up and running on your local machine for developmen
 2.  **Open your web browser** and navigate to `http://127.0.0.1:5000/`.
 3.  **Upload your resume** (PDF or DOCX) and enter the relevant keywords separated by commas.
 4.  **Click "Submit"** to get your resume analysis.
-
-## Project Structure
