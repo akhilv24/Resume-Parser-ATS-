@@ -2,8 +2,6 @@
 
 Resume-Parser
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPOSITORY_NAME)
-![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/YOUR_REPOSITORY_NAME)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
