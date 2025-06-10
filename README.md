@@ -21,7 +21,7 @@ Resume-Parser
 
 ## About the Project
 
-The ATS (Applicant Tracking System) Resume Checker is a web application designed to help job seekers optimize their resumes for ATS systems. It allows users to upload their resumes (PDF or DOCX) and input keywords relevant to a job description. The application then analyzes the resume against the provided keywords, highlighting matches and suggesting areas for improvement to increase the resume's visibility to ATS.
+The ATS (Applicant Tracking System) Resume Checker is a web application designed to help job seekers optimize their resumes for ATS systems. It allows users to upload their resumes (PDF or DOCX) and input keywords relevant to a job description. The application then analyzes the resume against the provided keywords, highlighting matches and suggesting areas for improvement to increase the resume's visibility to ATS and It also shows the exact percentage of how the resume is matching according to the input or the keywords given.
 
 ## Features
 
