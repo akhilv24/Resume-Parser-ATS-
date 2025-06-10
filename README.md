@@ -4,21 +4,6 @@ Resume-Parser
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
 ## About the Project
 
 The ATS (Applicant Tracking System) Resume Checker is a web application designed to help job seekers optimize their resumes for ATS systems. It allows users to upload their resumes (PDF or DOCX) and input keywords relevant to a job description. The application then analyzes the resume against the provided keywords, highlighting matches and suggesting areas for improvement to increase the resume's visibility to ATS and It also shows the exact percentage of how the resume is matching according to the input or the keywords given.
